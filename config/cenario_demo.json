@@ -1,0 +1,13 @@
+{
+  "descricao": "Cenário de demonstração (tempo acelerado)",
+  "horas_produtivas": "00:05:00",
+  "disponibilidade": 1.0,
+  "postos": [
+    { "nome": "Posto 01", "tempo_ciclo": "00:00:15", "operadores": 3 },
+    { "nome": "Posto 02", "tempo_ciclo": "00:00:15", "operadores": 2 },
+    { "nome": "Posto 03", "tempo_ciclo": "00:00:20", "operadores": 2 },
+    { "nome": "Posto 04", "tempo_ciclo": "00:00:12", "operadores": 4 },
+    { "nome": "Posto 05", "tempo_ciclo": "00:00:14", "operadores": 3 },
+    { "nome": "Posto 06", "tempo_ciclo": "00:00:15", "operadores": 2 }
+  ]
+}
